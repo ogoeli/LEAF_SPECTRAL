@@ -1,0 +1,26 @@
+{
+    "id": "FA3BE533",
+    "path": "~/CODE_R/LEAF_SPECTRAL/3.Spectra_data_Filtering.R",
+    "project_path": "3.Spectra_data_Filtering.R",
+    "type": "r_source",
+    "hash": "229442862",
+    "contents": "",
+    "dirty": false,
+    "created": 1763417308343.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "338,0",
+        "scrollLine": "319"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763673691,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763673691135,
+    "read_only": false,
+    "read_only_alternatives": []
+}
